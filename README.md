@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# General presentation of Tech Data and Innovation mindset
 
-You can use the [editor on GitHub](https://github.com/adelebnt/Presentation-of-the-course/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course explores the profound changes triggered by the emergence of a data-driven economy – from the
 
-### Markdown
+review of core data technologies to new business approaches developed in the Silicon Valley. The objective is to
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+strengthen students’ abilities to evolve in an increasingly technology minded environment where new rules and
 
-```markdown
-Syntax highlighted code block
+methods emerge rapidly.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+To that end, the course:
 
-**Bold** and _Italic_ and `Code` text
+- Delivers the theoretical tools and perspective to make sense of the evolutions of recent years, and prepare
 
-[Link](url) and ![Image](src)
-```
+students for the future;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Integrates an experimental component that will allow students to engage in concrete, practical
 
-### Jekyll Themes
+assignments with a DIY mindset.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adelebnt/Presentation-of-the-course/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This course intends to:
+
+- Provide students with sound reference frameworks to understand and assess the impact of tech and data
+
+in today’s economic environment;
+
+- Demystify tech and software through practical (albeit limited-scale) tech assignments;
+
+- Deliver a continuum of knowledge from technology to data-first business models and new managerial
+
+methodologies.
