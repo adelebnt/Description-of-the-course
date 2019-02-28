@@ -12,3 +12,5 @@ This course intends to:
 - Provide students with sound reference frameworks to understand and assess the impact of tech and data in today’s economic environment;
 - Demystify tech and software through practical (albeit limited-scale) tech assignments;
 - Deliver a continuum of knowledge from technology to data-first business models and new managerial methodologies.
+
+Return to [Homepage](https://adelebnt.github.io/Data-Tech-Innovation-Course/)
